@@ -7,7 +7,7 @@ on:
 
 jobs:
   release:
-    name: Build NPM package (On Demand)
+    name: Build NPM package (On Release)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
