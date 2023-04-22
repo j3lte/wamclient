@@ -20,11 +20,6 @@ export interface ArtworkPlus extends Artwork {
   ratio: number;
 }
 
-export interface ArtworkPlus extends Artwork {
-  image: string;
-  ratio: number;
-}
-
 export enum Order {
   DateAsc = "date_asc",
   DateDesc = "date_desc",
