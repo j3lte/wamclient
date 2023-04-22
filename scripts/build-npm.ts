@@ -33,7 +33,7 @@ await build({
   },
   package: {
     // package.json properties
-    name: "wam-api",
+    name: "wamclient",
     version: Deno.args[0] || "1.0.0",
     description: "API to get your data from Werk Aan De Muur",
     license: "MIT",
