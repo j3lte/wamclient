@@ -1,5 +1,13 @@
 # Werk Aan De Muur - API
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/j3lte/wamclient?style=for-the-badge)](https://github.com/j3lte/wamclient/releases/latest "GitHub release (latest by date)")
+[![NPM Version](https://img.shields.io/npm/v/wamclient?style=for-the-badge)](https://www.npmjs.com/package/wamclient "NPM Version")
+[![GitHub Release Date](https://img.shields.io/github/release-date/j3lte/wamclient?style=for-the-badge)](https://github.com/j3lte/wamclient/releases/latest "GitHub Release Date")
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/j3lte/wamclient?style=for-the-badge)
+[![GitHub](https://img.shields.io/github/license/j3lte/wamclient?style=for-the-badge)](https://github.com/j3lte/wamclient/blob/main/LICENSE "GitHub License")
+[![GitHub last commit](https://img.shields.io/github/last-commit/j3lte/wamclient?style=for-the-badge)](https://github.com/j3lte/wamclient/commits/main "GitHub last commit")
+[![GitHub issues](https://img.shields.io/github/issues/j3lte/wamclient?style=for-the-badge)](https://github.com/j3lte/wamclient/issues "Github Issues")
+
 Werk aan de Muur - API client for Deno/Node
 
 This client is intended for limited use at the backend. It is not intended for use in the browser.
@@ -25,8 +33,16 @@ Inspired by the [Wordpress Plugin](https://nl.wordpress.org/plugins/werk-aan-de-
 
 ## Installation
 
+Deno
+
 ```typescript
 import { WAMClient } from 'https://deno.land/x/wamclient/mod.ts';
+```
+
+Node
+
+```typescript
+import { WAMClient } from 'wamclient';
 ```
 
 ## Example
