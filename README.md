@@ -7,6 +7,7 @@
 [![GitHub](https://img.shields.io/github/license/j3lte/wamclient?style=for-the-badge)](https://github.com/j3lte/wamclient/blob/main/LICENSE "GitHub License")
 [![GitHub last commit](https://img.shields.io/github/last-commit/j3lte/wamclient?style=for-the-badge)](https://github.com/j3lte/wamclient/commits/main "GitHub last commit")
 [![GitHub issues](https://img.shields.io/github/issues/j3lte/wamclient?style=for-the-badge)](https://github.com/j3lte/wamclient/issues "Github Issues")
+[![Deno docs](https://img.shields.io/badge/Deno-Docs-blue?style=for-the-badge)](https://doc.deno.land/https/deno.land/x/wamclient/mod.ts "Deno docs")
 
 Werk aan de Muur - API client for Deno/Node
 
